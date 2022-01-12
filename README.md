@@ -1,0 +1,2 @@
+# Patikadev
+Patika.dev çalışmalarım.
