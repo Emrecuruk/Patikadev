@@ -1,2 +1,2 @@
 # Patikadev
-Patika.dev çalışmalarım.
+Patika.dev çalışma ve ödevlerim yer almaktadır.
