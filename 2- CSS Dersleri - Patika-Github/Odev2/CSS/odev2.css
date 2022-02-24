@@ -1,0 +1,65 @@
+.logo
+{
+    text-align: center;
+}
+
+.box1
+{
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    width: 1000px; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+.blockbox
+ {
+       margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    width: 1000px;
+    height: 78px;
+ }
+
+ .box2
+ {
+    text-align: center;
+    background-color: rgb(126, 229, 218);
+    float: left;
+    width: 400px;
+    height: 58px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+ }
+
+ .box3 
+ {
+     text-align: center;
+     background-color: rgb(112, 204, 194);
+     float: left;
+     width: 196px;
+     height: 68px;
+     margin-left: 2px;
+     margin-right: 2px;
+     font-size: small;
+     padding-top: 5px;
+    padding-bottom: 5px;
+ }
+
+ .box4
+ {
+    text-align: center;
+    background-color: rgb(98, 179, 170);
+    float: left;
+    width: 400px;
+    height: 74px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: small;
+            
+ }
+
+ .Made-in
+ {
+    text-align: center;
+    clear: both;
+ }
